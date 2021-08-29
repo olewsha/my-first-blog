@@ -53,4 +53,7 @@ Thumbs.db
 *.wmv
 
 /venv/
+/static
+.DS_Store
+db.sqlite3
 
